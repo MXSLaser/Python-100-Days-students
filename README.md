@@ -9,3 +9,7 @@
 ##### Day02 - [语言元素](./task/day-02.md)
 
 ##### Day03 - [分支结构](./task/day-03.md)
+
+##### Day04 - [循环结构](./task/day-04.md)
+
+##### Day05 - [构造程序逻辑](./task/day-05.md)

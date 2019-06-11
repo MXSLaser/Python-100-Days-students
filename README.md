@@ -4,7 +4,7 @@
 >
 > 说明：针对--骆昊分享的100天Python学习路线，记录学习过程
 
-##### Day01 - [初识Python](./task/day-01.md)
+##### Day01 - [初识Python](./task/day-01.md) :white_check_mark:
 
 ##### Day02 - [语言元素](./task/day-02.md)
 

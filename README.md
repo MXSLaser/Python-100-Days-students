@@ -4,8 +4,12 @@
 >
 > 说明：针对--骆昊分享的100天Python学习路线，记录学习过程
 
-##### Day01 - [初识Python](./task/day-01.md)
+##### Day01 - [初识Python](./task/day-01.md) :white_check_mark:
 
 ##### Day02 - [语言元素](./task/day-02.md)
 
 ##### Day03 - [分支结构](./task/day-03.md)
+
+##### Day04 - [循环结构](./task/day-04.md)
+
+##### Day05 - [构造程序逻辑](./task/day-05.md)

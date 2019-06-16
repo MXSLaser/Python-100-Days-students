@@ -16,4 +16,4 @@
 
 ##### Day06 - [函数和模块的使用](./task/06.函数和模块的使用.md)
 
-##### Day07 - [第一次线下讨论](../question/test1.png)  :secret:
+##### Day07 - [第一次线下讨论](./task/day-07.md)  :secret:
